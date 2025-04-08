@@ -24,7 +24,7 @@ pose_estimation_chessboard.py에서는 원본 영상에 AR박스를 그립니다
 
 ## 캘리브레이션 결과
 
-<img width="311" alt="화면 캡처 2025-04-08 221332" src="https://github.com/user-attachments/assets/5872a12c-168c-49e3-9f68-467cecfff302" />
+<img width="437" alt="1" src="https://github.com/user-attachments/assets/139c3ff7-10b0-4f41-86a1-af934aa96f44" />
 
 
 
