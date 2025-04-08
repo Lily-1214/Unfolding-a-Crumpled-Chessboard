@@ -6,3 +6,9 @@
 camera_calibration.py를 통해  Camera matrix (K)를 얻고, 이 값을 바탕으로
 distortion_correction.py를 통해 왜곡 보정된 비디오를 얻습니다.
 pose_estimation_chessboard.py에서는 원본 영상에 AR박스를 그립니다.
+
+![recorded_video_640x360_10fps](https://github.com/user-attachments/assets/4e554d1a-d008-45cb-9f07-0035426ba16c)
+
+![rectified_output_640x360_10fps](https://github.com/user-attachments/assets/4b4cdd91-7491-4114-b5f9-d3deed4af06f)
+
+![pose_output_640x360_10fps](https://github.com/user-attachments/assets/151bc644-d21d-4bae-8b03-32c05fa9634f)
